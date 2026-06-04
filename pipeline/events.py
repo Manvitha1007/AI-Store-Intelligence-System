@@ -22,7 +22,6 @@ events = [
         "camera": "CAM5"
     }
 ]
-
 with open("events.jsonl", "w") as f:
     for event in events:
         f.write(json.dumps(event) + "\n")

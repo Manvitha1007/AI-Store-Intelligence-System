@@ -1,2 +1,3 @@
-{"timestamp": "2026-06-04T20:37:35.772958", "event_type": "customer_entered", "visitor_id": 1, "camera": "CAM3"}
-{"timestamp": "2026-06-04T20:37:35.772958", "event_type": "customer_entered", "visitor_id": 2, "camera": "CAM3"}
+{"timestamp": "2026-06-04T20:40:05.939713", "event_type": "customer_entered", "visitor_id": 1, "camera": "CAM3"}
+{"timestamp": "2026-06-04T20:40:05.939713", "event_type": "zone_entered", "visitor_id": 1, "camera": "CAM1", "zone": "Cosmetics"}
+{"timestamp": "2026-06-04T20:40:05.939713", "event_type": "billing_started", "visitor_id": 1, "camera": "CAM5"}
